@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "建立之初"
+date:   2015-10-27 12:07:30
+categories: jekyll update
+---
+
+第一次无论做什么都不知道对错，但是时间会验证的。
+建立这个博客之初是不想自己的知识被时间带走，想让他们留存。随着简单的剪切编辑的Evernote操作满足不了我，于是我决定加入博客行列。
+
+#搭建过程#
+多少讲下这个搭建。Github+Jekyll+MarkDown.很感谢Github提供这项功能，如果没有，或许我还会继续在荒野之地走着。至于Github上如何做这些，可以看下[这个](http://blog.csdn.net/renfufei/article/details/37725057/)。我并没有去选择更成熟的东西，因为不了解。
+Jekyll 和 WordPress 是两种流行的搭建博客的框架，但各有个的差别。想了解可以百度 keyword：*wordpress 和 jekyll* 。
+至于MarkDown是什么，我也不太清楚，估计就是一层转换翻译，将特殊标识转成html吧。引用[别人](http://sspai.com/25137)的描述Markdown 是一种轻量级的「标记语言」，它的优点很多，目前也被越来越多的写作爱好者，撰稿者广泛使用。
+
+#至于Title#
+Indirection Station,一个Switch,一个用来重定向的小站.
+
+以上.建立之初
